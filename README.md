@@ -1,4 +1,7 @@
 # 🏭 Benchmark de Previsão de Produção  
+
+![Dashboard de ROI 800%](download%20(2).png)
+
 *Data-Driven Factory | Machine Learning | ROI 800 %*
 
 &gt; Descobrindo **o que de fato gera mais produção** sem aumentar headcount ou quebrar o caixa.  
